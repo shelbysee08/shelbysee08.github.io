@@ -1,0 +1,27 @@
+.picture {
+    width:350px;
+    height:300px;
+    border: 7px dashed;
+    color:rgb(219, 131, 16);
+}
+h1, h2{
+    font-family: italics;
+    color: brown;
+}
+body{
+    background-color:blanchedalmond;
+}
+li{
+    font-family: -apple-system;
+    color: rgb(92, 60, 2);
+}
+h5{
+    color:orangered;
+}
+iframe{
+    border: 7px dashed;
+    color:rgb(219, 131, 16);
+}
+p{
+    color:rgb(92, 60, 2);
+}
